@@ -1,0 +1,10 @@
+venv*
+*.pyc
+.idea
+utils/config.ini
+*.pkl
+*.h5
+*.txt
+*.db
+__pycache__
+node_modules
